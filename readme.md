@@ -37,7 +37,7 @@ Futuramente
 
 
 # Equipe
-![Equipe](file:///C:/Users/Fatec/Downloads/GBAP%20TECH%20EQUIPE.pdf)
+![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
