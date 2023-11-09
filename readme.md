@@ -1,19 +1,17 @@
 # GBAP-TECH
 
-Aqui será desenvolvido as atividades referentes ao projeto integrador (API) da empresa "BALL"
+Aqui será desenvolvido as atividades referentes ao projeto integrador (API) da empresa parceira
 
 # Índice
 
 * [Projeto](#projeto-template)
-* [Micro Certificações](#badges)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
+  
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
@@ -55,11 +53,9 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 Adicionar video e documentos nessa seção
 
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
-## Tecnologias Utilizadas
-  ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+
+
 
  ### Tecnológias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
@@ -68,15 +64,7 @@ Exemplos:
 - [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
 - [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
   
- ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
-- Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
+
 
 # Cronograma das Sprints
 
@@ -113,60 +101,34 @@ User stories
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
-## Sprint 0. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
+## Sprint 0. Validação
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
            
-## Sprint 1. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
+## Sprint 1. Desenvolvimento/ Entrega Final
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
 
-# Competências desenvolvidas
 
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
 
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
 
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
-</details>
+
 
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
