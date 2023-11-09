@@ -37,7 +37,9 @@ Futuramente
 
 
 # Equipe
-![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
+
+![GBAPTECH](https://github.com/Bruno-Monti-Peres/GBAP-TECH/assets/142462448/f535dd00-7221-4f15-960c-00f6493db045)
+
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
