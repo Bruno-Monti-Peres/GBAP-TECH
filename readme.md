@@ -37,7 +37,6 @@ Futuramente
 
 
 # Equipe
-
 ![GBAPTECH](https://github.com/Bruno-Monti-Peres/GBAP-TECH/assets/142462448/f535dd00-7221-4f15-960c-00f6493db045)
 
 
