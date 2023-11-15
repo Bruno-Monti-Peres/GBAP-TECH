@@ -63,7 +63,7 @@ Requisitos não funcionais
 ## Sprint 1. Desenvolvimento/ Entrega Final
 - [ ] Desenvolvimento do dashboard;
 - [ ] Contactar cliente;
-- [ ] Apresentação do dashboard;
+- [ ] Apresentação do dashboard.
 
 
 
