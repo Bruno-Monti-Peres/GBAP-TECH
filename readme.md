@@ -22,12 +22,12 @@ Realizar um dashboard que apresente de forma intuitiva e visual os indicadores d
 
 # Cronograma das Sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 25/10/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00 | 15/11/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01|  06/12/2023| A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Feira de Soluções|12/12/2023 |A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+Sprint | Previsão | Status|
+|------|--------|------|
+|Kick Off | 25/10/2023 | Concluído| 
+|00 | 15/11/2023 | Concluído| 
+|01|  06/12/2023| A fazer |
+|Feira de Soluções|12/12/2023 |A fazer |
 
 
 #### Cronograma das Sprints[(clique aqui)](https://gbaptech.atlassian.net/jira/software/projects/SCRUM/boards/1)
