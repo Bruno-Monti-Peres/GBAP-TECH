@@ -61,7 +61,7 @@ Requisitos não funcionais
 - [X] Atualizar Github.
 
 ## Sprint 1. Desenvolvimento/ Entrega Final
-- [ ] Desenvolvimento do dashboard;
+- [X] Desenvolvimento do dashboard;
 - [ ] Contactar cliente;
 - [ ] Apresentação do dashboard.
 
