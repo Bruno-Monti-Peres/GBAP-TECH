@@ -66,8 +66,8 @@ Requisitos não funcionais
 
 ## Sprint 1. Desenvolvimento/ Entrega Final
 - [X] Desenvolvimento do dashboard;
-- [ ] Levantamento de requisitos;
-- [ ] Apresentação do dashboard.
+- [X] Levantamento de requisitos;
+- [X] Apresentação do dashboard.
 
 ## Demonstração do Projeto
 
