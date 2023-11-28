@@ -26,6 +26,7 @@ Realizar um dashboard que apresente de forma intuitiva e visual os indicadores d
 
 # Cronograma das Sprints
 
+
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 25/10/2023 | Concluído| 
@@ -70,6 +71,9 @@ Requisitos não funcionais
 - [X] Apresentação do dashboard.
 
 ## Demonstração do Projeto
+
+
+https://github.com/Bruno-Monti-Peres/GBAP-TECH/assets/142462448/c1444ad6-f35a-45e6-adf3-006129e03999
 
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
