@@ -8,7 +8,10 @@ Aqui será desenvolvido as atividades referentes ao projeto integrador (API) da 
 * [Equipe](#Equipe)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Regras de Negócio](#Regras-de-Negócio)
+* [Sprint 0](#Sprint-0.-Validação)
+* [Sprint 1](#Sprint-1.-Desenvolvimento/-Entrega-final)
 * [Demonstração do Projeto](#Demonstração-do-Projeto)
+* [Autores](#Autores)
   
   
 
